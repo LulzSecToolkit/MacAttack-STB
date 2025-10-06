@@ -86,6 +86,9 @@ MacAttack-STB is an advanced IPTV testing and management tool designed for profe
    ```bash
    python macattack.py
    ```
+<img width="1497" height="1019" alt="image" src="https://github.com/user-attachments/assets/e7a0260a-7ccf-43f4-815c-3ba73ffb4d9e" />
+<img width="1494" height="1008" alt="image" src="https://github.com/user-attachments/assets/44fe12df-72e9-40f2-9f55-09d7636ca8f5" />
+
 
 ## 🚀 Quick Start
 
