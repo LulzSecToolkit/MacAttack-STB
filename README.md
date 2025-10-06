@@ -187,6 +187,7 @@ This project is provided as-is for educational purposes.
 ## 👤 Author
 
 **LulzSecToolkit**
+**@Lulz1337**
 
 ## 🔄 Version History
 
@@ -206,4 +207,4 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 **Made with ❤️ by LulzSecToolkit**
 ```
 
-This README provides comprehensive documentation for your MacAttack-STB application, including all the features you've mentioned in the application output. You can create this file in your repository to help users understand and use your tool effectively.
+This README provides comprehensive documentation for MacAttack-STB application, including all the features in the application output.
